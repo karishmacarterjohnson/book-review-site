@@ -11,3 +11,7 @@ img {
 .review-text p {
     line-height: 150%;
 }
+
+#site-maintainer {
+    border-radius: 25px;
+}
