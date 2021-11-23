@@ -2,3 +2,12 @@ img {
     width:  100px;
     height: 100px;
 }
+
+.review {
+    background-color: lightgray;
+    
+}
+
+.review-text p {
+    line-height: 150%;
+}
